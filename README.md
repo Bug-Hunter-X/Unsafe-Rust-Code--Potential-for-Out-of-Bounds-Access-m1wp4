@@ -1,0 +1,1 @@
+This repository demonstrates an example of unsafe code in Rust that is prone to out-of-bounds memory access and shows how to mitigate it by employing safe Rust practices.  The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a corrected version.
